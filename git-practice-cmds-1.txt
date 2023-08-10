@@ -1,2 +1,4 @@
 
 1st line text for merge commands , from 1stBranch 
+
+4th line text for merge commands , from 2ndBranch
