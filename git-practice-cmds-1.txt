@@ -1,0 +1,2 @@
+
+1st line text for merge commands , from 1stBranch 
